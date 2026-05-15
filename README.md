@@ -6,6 +6,7 @@ This repository contains beginner Java programs and practice questions.
 - Hello World
 - Palindrome Number
 - Fibonacci Series
+- Prime number 
 
 
 
