@@ -7,6 +7,7 @@ This repository contains beginner Java programs and practice questions.
 - Palindrome Number
 - Fibonacci Series
 - Prime number 
+- Factorial 
 
 
 
