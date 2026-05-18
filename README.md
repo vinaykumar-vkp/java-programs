@@ -8,6 +8,7 @@ This repository contains beginner Java programs and practice questions.
 - Fibonacci Series
 - Prime number 
 - Factorial 
+- Reverse number
 
 
 
