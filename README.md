@@ -9,7 +9,7 @@ This repository contains beginner Java programs and practice questions.
 - Prime number 
 - Factorial 
 - Reverse number
-
+- Largest of three numbers 
 
 
 ## Concepts Used
